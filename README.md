@@ -1,3 +1,3 @@
-**My dotfiles for Linux**
+# My dotfiles for Linux
 
-I use Arch and Pop!_OS.
+I use Arch Linux and Pop!_\OS as my daily drivers
