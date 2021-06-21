@@ -1,6 +1,6 @@
 # My dotfiles for Linux
 
-I use Arch Linux and Pop!_OS as my daily drivers.
+I use Arch Linux and Gentoo as my daily drivers.
 
 # How to deploy my dotfiles?
 1. You need [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) and [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k)
